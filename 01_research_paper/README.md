@@ -38,7 +38,8 @@
 
 <details> 
   <summary><h3>📋 Полезные ссылки</h3></summary>
-  [ССЫЛКА С АРХИВОМ ФАЙЛОВ](https://drive.google.com/drive/folders/123hOxfBU7kLa7lldiv8iNrBIMRHV0ii-?usp=sharing)
+
+  [!!!ССЫЛКА С АРХИВОМ ФАЙЛОВ](https://drive.google.com/drive/folders/123hOxfBU7kLa7lldiv8iNrBIMRHV0ii-?usp=sharing)
   
   [Документ ГОСТ можно посмотреть по ссылке](https://www.consultant.ru/document/cons_doc_LAW_292293/)
 
