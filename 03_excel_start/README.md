@@ -13,7 +13,7 @@
   <!-- </details> -->
 
   <!-- Вы, как самый молодой и продвинутый (по мнению ее мнению) сотрудник, заявляете [о невероятных навыках владения Microsoft Excel](https://youtu.be/kOO31qFmi9A?si=4kwyK7GQj8afzCx3&t=62) -->
-
+ 
 </details>
 
 <details open> 
