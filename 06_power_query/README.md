@@ -10,7 +10,8 @@
 <details open> 
   <summary><h3>📝 Практика</h3></summary>
   
-  1. Загрузите архив с данными.
+  1. Загрузите архив с данными `data.zip`.
+   <!-- https://disk.yandex.ru/d/6ifZ5DwJLwusDQ -->
   2. Решить поставленные задачи:
 
      * Очистить и объединить данные о дизайнерском бутике (`task_1_designer_store.xlsx`, `task_1_sales`) 
